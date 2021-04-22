@@ -1,0 +1,33 @@
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\COVID INFO.exe.config
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\COVID INFO.exe
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\COVID INFO.pdb
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.csprojAssemblyReference.cache
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID_INFO.Form1.resources
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID_INFO.Properties.Resources.resources
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.csproj.GenerateResource.cache
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.csproj.CoreCompileInputs.cache
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.exe
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.pdb
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Microsoft.Graph.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Buffers.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Memory.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Microsoft.Graph.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Buffers.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Memory.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID INFO.csproj.CopyComplete
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\RestSharp.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\RestSharp.xml
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\bin\Debug\Guna.UI2.dll
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID_INFO.dataprovinsi.resources
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID_INFO.Formawal.resources
+C:\Users\bellatrix lestrange\Downloads\source\COVID INFO\COVID INFO\obj\Debug\COVID_INFO.About.resources
